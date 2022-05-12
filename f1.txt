@@ -10,3 +10,4 @@ nueve
 diez
 once
 doce
+trece
