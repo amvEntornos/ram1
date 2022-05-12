@@ -12,3 +12,4 @@ once
 doce
 trece
 catorce
+quince (en remoto)
